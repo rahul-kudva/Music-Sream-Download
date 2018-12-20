@@ -5,10 +5,10 @@ This a basic website which allows the user to stream and download music.It uses 
 Steps for initialization -
 
 1.Once you download the repository run -
-  npm init
+  npm init -
   and fill in the necessary details.
   
-2.Install express by running the following
+2.Install express by running the following-
   npm install express --save
 
 3.Refer the HTML files and accordingly create a Music Folder with all your music.
